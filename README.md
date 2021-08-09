@@ -1,3 +1,3 @@
 # task_js
 
-#JavaScript working .
+#JavaScript working with diploma degree coding through JavaScript
